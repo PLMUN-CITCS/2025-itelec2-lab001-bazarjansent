@@ -1,4 +1,4 @@
 print("Hello world!")
-print("Name: Jansent bazar")
-print("Course: BSIT 3P")
-print("Interests in programming: Being fun to learn more coding")
+print("Name: Jansent Bazar")
+print("Course: Information Technology")
+print("Interests in programming: being fun for more learn coding")
