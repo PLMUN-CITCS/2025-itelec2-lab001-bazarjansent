@@ -1,7 +1,4 @@
 print("Hello world!")
-
-print("Name: JANSENT BAZAR")
-
+print("Name: Jansent bazar")
 print("Course: BSIT 3P")
-
-print("Interests in programming: BEING FUN TO LEARN MORE CODING")
+print("Interests in programming: Being fun to learn more coding")
